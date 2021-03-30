@@ -1,0 +1,32 @@
+.header{
+    background-color: #3a0202;
+    display:flex;
+    justify-content:space-between;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(8, 156, 255);
+    flex-direction: column;
+    
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:#024f52f6;
+}
+
+body{
+    background: color #ff0d0d;;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
